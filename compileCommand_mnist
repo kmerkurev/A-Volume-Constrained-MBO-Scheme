@@ -1,0 +1,1 @@
+gcc -std=gnu99 -O3 -g -lm mnist_volume_preserving_benchmark.c mbo_corrected_speedy_volume_preserving.c -o mnist_volume_preserving_benchmark
